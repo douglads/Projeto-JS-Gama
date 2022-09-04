@@ -49,7 +49,7 @@ const livros = [
         nome: 'Padrões de JavaScript',
         autor: 'Stoyan Stefanov',
         categoria: 'Técnologia',
-        pagina: '231',
+        pagina: 231,
         recomenda: false,
         leu: false
     }
